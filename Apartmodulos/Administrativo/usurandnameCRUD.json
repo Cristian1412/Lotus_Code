@@ -1,0 +1,23 @@
+{
+    "usuarios": [
+        {
+            "nombre": "Duvan",
+            "numero telefonico": "",
+            "activo o inactivo": "activo",
+            "documento": "55248945",
+            "Plan de servicios ": "plan 30 dias",
+            "rango de edad": 25,
+            "codigo": 78
+            
+        },
+        {
+        "nombre": "Cristian ",
+            "numero de telefono": 4562515235,
+            "activo o inactivo": "activo",
+            "Numero de documento": "1313",
+            "Plan de servicios ": "plan postpago",
+            "rango de edad": 17,
+            "codigo": 1
+        }
+    ]
+}
